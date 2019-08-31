@@ -1,6 +1,4 @@
-x="apple"
-y="orange"
-z="limon"
+x,y,z="apple","orange","limon"
 basket=x+y+z
 print("Basket befor spliting is ",basket)
 print("******************************")
