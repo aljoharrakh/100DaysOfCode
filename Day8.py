@@ -1,0 +1,15 @@
+s=" Hello everyone , today is the seventh day of the Saudi Programmers Initiative . "
+print(s)
+print("********** use Strip method **********")
+print(s.strip())
+print("********** use len method **********")
+print("length os string is ", len(s))
+print("********** use lower method **********")
+print(s.lower())
+print("********** use upper method **********")
+print(s.upper())
+print("********** use replace method **********")
+print(s.replace('.','!'))
+print("********** use split method **********")
+print(s.split(','))
+
