@@ -6,4 +6,4 @@ Sent=Sent.replace("I","we")
 Sent=Sent.format(5,7)
 #last
 Sent=Sent.replace("a","A",len(Sent))
-print(Sent)
+print(Sent)y57uikl
